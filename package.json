@@ -1,0 +1,23 @@
+{
+  "name": "css-background-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "build": "browserify script.js > bundle.js",
+    "date":"date"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hemanthhp1229/Css-Background-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hemanthhp1229/Css-Background-Generator/issues"
+  },
+  "homepage": "https://github.com/hemanthhp1229/Css-Background-Generator#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
